@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Villate</h1>
-<h3 align="center">data engineer deeply passionate about programming and with an insatiable curiosity to discover and explore the many facets of the data world. I find myself at the exciting intersection of data collection, analysis and visualization, combined with constant innovation in programming to solve complex challenges and create significant value.</h3>
+<h3 align="center">Data engineer deeply passionate about programming and with an insatiable curiosity to discover and explore the many facets of the data world. I find myself at the exciting intersection of data collection, analysis and visualization, combined with constant innovation in programming to solve complex challenges and create significant value.</h3>
 
 - 🔭 **I’m currently working on** In-depth learning of medical records
 - 🔍 **My Journey in Data and Programming:**
