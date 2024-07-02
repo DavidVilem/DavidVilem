@@ -17,7 +17,10 @@
 <a href="https://www.hackerrank.com/jdvillate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jdvillate" height="30" width="40" /></a>
 </p>
 
-- ⚙️ **Hobbie projects that may interest you:** [Scrapper](https://github.com/DavidVilem/Scrapper)
+- ⚙️ **Hobbie projects that may interest you:**
+
+- [Scrapper](https://github.com/DavidVilem/Scrapper)
+- [Machine Enigma](https://github.com/DavidVilem/Machine_Enigma)
 
 
 <h3 align="left">Languages and Tools:</h3>
