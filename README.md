@@ -21,6 +21,7 @@
 
 - [Scrapper](https://github.com/DavidVilem/Scrapper)
 - [Machine Enigma](https://github.com/DavidVilem/Machine_Enigma)
+- [Knight's Tour Chess Algorithm](https://github.com/DavidVilem/Knight-s-Tour-Visualizer-Solver)
 
 
 <h3 align="left">Languages and Tools:</h3>
