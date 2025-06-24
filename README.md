@@ -22,6 +22,8 @@
 - [Scrapper](https://github.com/DavidVilem/Scrapper)
 - [Machine Enigma](https://github.com/DavidVilem/Machine_Enigma)
 - [Knight's Tour Chess Algorithm](https://github.com/DavidVilem/Knight-s-Tour-Visualizer-Solver)
+- [SRA_Stochastic_Resonance_Algorithm](https://github.com/DavidVilem/SRA_Stochastic_Resonance_Algorithm)
+- [Simulación de Civilizaciones Celulares](https://github.com/DavidVilem/game_of_life?tab=readme-ov-file)
 
 
 <h3 align="left">Languages and Tools:</h3>
